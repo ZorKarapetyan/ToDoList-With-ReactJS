@@ -1,0 +1,23 @@
+.item{
+    width: 250px;
+    height: 100%;
+    border: 4px solid black;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin-bottom: 25px;
+    width: 250px;
+}
+
+.seccontainer{
+    margin: 10px;
+    display: flex;
+}
+
+.boo{
+    margin-top: 10px;
+}
